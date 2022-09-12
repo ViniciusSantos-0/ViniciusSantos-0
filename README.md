@@ -1,6 +1,2 @@
 - Hi, I’m Vinicius Santos
-- I’m interested in a job
-- I am a kotlin and java developer, knowledge in several tools for example 
-- for kotlin, Retrofit, JetPack, Lifecycle, RecycleView, FireBase etc..
-- for java, Maven, Grandle, Spring boot, AWS Services etc...
-- Docker
+- I am a java developer
